@@ -5,3 +5,5 @@ FrankyJA tiene 20 años de edad y nacio en Mexico
 Hoy hablaremos de su historia.
 
 Mido 1.72 m, en realidad no soy tan alto.
+
+Y soy estudiante de Platzi.
